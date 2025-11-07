@@ -1,0 +1,1 @@
+Implementare una funzione che converta il valore booleano dato nella sua rappresentazione di stringa.
