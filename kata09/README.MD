@@ -1,0 +1,1 @@
+Realizza una semplice funzione chiamata salutare questo restituisce il più famoso "ciao mondo!".
